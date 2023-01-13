@@ -3,3 +3,5 @@
 
 My name is Brenton Mizell
 I am a junior in ECE at the University of Washington
+
+I just made a change
